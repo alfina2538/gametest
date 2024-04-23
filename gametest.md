@@ -4,7 +4,7 @@
 
 - [GametestFrameworkの設定方法](#gametestframeworkの設定方法)
   - [目次](#目次)
-  - [前提](#前提)
+  - [まえがき](#まえがき)
   - [Yarnのインストール](#yarnのインストール)
   - [Visual Studio Codeのインストール](#visual-studio-codeのインストール)
   - [拡張機能のインストール](#拡張機能のインストール)
@@ -22,7 +22,11 @@
   - [ワールドで実行してみる](#ワールドで実行してみる)
   - [あとがき](#あとがき)
 
-## 前提
+## まえがき
+
+統合版minecraftについての説明です。
+
+環境はWindows10/11を想定しています。
 
 GametestFrameworkは`"javascript"`を用いて  
 動作させる機能ですが、  
@@ -67,7 +71,7 @@ VSCodeを起動して`□が4つ集まったボタン`を
 
 開いた画面で以下の拡張機能を検索してインストールします。
 
-- [Blockception's Minecraft Bedrock Develo](https://marketplace.visualstudio.com/items?itemName=BlockceptionLtd.ablockceptionvscodeminecraftbedrockdevelopmentextension)
+- [Blockception's Minecraft Bedrock Development](https://marketplace.visualstudio.com/items?itemName=BlockceptionLtd.blockceptionvscodeminecraftbedrockdevelopmentextension)
 - [TypeScript Importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter)
 
 ※あると便利
